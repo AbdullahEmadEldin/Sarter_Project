@@ -1,16 +1,8 @@
-# azkar_app
+# Starter project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project include neccessary package and configurations that is needed for each app I create
+ * Packages included:
+    - flutter_bloc
+    - get_it
+    - flutter_localization
+    - go_router
